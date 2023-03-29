@@ -23,3 +23,5 @@ Para realizar a venda de um hambúrguer
 "valor":
 }
 
+_________________________________________________________________
+By: Thavi
