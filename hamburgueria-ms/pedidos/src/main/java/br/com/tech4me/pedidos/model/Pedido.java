@@ -26,7 +26,7 @@ public class Pedido {
     public String getIdHambuguer() {
         return idHamburguer;
     }
-    public void setIdPizza(String idHamburguer) {
+    public void setIdHamburguer(String idHamburguer) {
         this.idHamburguer = idHamburguer;
     }
     public double getValor() {
