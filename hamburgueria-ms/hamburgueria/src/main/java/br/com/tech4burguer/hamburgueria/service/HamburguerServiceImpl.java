@@ -20,9 +20,9 @@ public class HamburguerServiceImpl implements HamburguerService {
 
   @Override
   public List<HamburguerCompletoDto> obterTodas() {
-    List<Hamburguer> pizzas = repositorio.findAll();
+    List<Hamburguer> burguer = repositorio.findAll();
     
-    return pizzas.stream()
+    return burguer.stream()
                 .map(p -> new ModelMapper().map(p, HamburguerCompletoDto.class))
                 .collect(Collectors.toList());
   }
