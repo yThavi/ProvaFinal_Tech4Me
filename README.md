@@ -24,4 +24,4 @@ Para realizar a venda de um hambúrguer
 }
 
 _________________________________________________________________
-By: Thavi
+By: Thavi.
